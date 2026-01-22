@@ -15,7 +15,6 @@ def clean_raw_data(path):
 
 def get_raw_data(data_dir):
     # Read dataset directory paths
-    data_dir = "2B. BD por referencia"
     data_file = os.listdir(data_dir)
 
     # --- 2. Processing and consolidation ---
