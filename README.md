@@ -315,4 +315,4 @@ export MAXCUT_QAOA_SCRIPT=/path/to/your/qaoa_script.py
 
 ## Acknowledgements
 
-!(images/mi-imagen.png)
+!(images/Cartel-PCCC-800x571.png)
